@@ -1,0 +1,1 @@
+Remember that in order to clone the repo with correct submodules (my fork of ros_gz, in case you want to git that too): git clone --recurse-submodules https://github.com/mttga/ros_lrauv.git. 

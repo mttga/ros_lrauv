@@ -15,6 +15,9 @@ find_package(rosidl_default_generators REQUIRED)
 set(msg_files
   "msg/LRAUVInit.msg"
   "msg/LRAUVState.msg"
+  "msg/LRAUVCommand.msg"
+  "msg/LRAUVRangeBearingRequest.msg"
+  "msg/LRAUVRangeBearingResponse.msg"
 )
 
 # generate the messages
